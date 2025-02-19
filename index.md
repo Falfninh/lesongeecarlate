@@ -1,8 +1,14 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
+# Le Songe Écarlate
+=========================================================================================
 
-# L'Échappée Belle
+**Le Songe Écarlate** est une organisation d'une personne, spécialisé dans la création **littéraire**, projet **vidéos** ou même de **jeux vidéos**.
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+La créativité est une valeur partagée par son unique membre. Sa volonté de progresser est son principale moteur, et aussi un peu de l'inspiration du Touhou project.
+
+
+========================================================================================= 
