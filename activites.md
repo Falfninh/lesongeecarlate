@@ -17,4 +17,4 @@ Le Songe Écarlate est un organisme d'une personne à but non lucratif, mais nou
 
 - Montage vidéo ;
 
-- Rédaction de script pour des petites production 
+- Rédaction de script pour des petites productions 
