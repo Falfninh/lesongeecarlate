@@ -3,7 +3,7 @@ title: "Contact"
 order: 5
 in_menu: true
 ---
-L'Échappée Belle est actuellement composée de 6 membres.
+Le Songe Écarlate est constitué d'une personne qui peut être contacté par mail.
 
-Pour nous contacter : [Mon adresse mail](mailto:t3rfr3e@gmail.com)
+Pour nous contacter : [l'adresse mail](mailto:t3rfr3e@gmail.com)
 ` 
