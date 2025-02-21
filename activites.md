@@ -1,17 +1,20 @@
 ---
-title: Activités
+title: "Activités"
 order: 1
+in_menu: true
 ---
+Le Songe Écarlate est un organisme d'une personne à but non lucratif, mais nous avons des activités.
 
-L’association cherche à œuvrer en collaboration avec des organismes publics, des organisations privées et des individus.
+=========================================================================================
 
-## Nos activités
+## Nos activités :
 
-A titre indicatif, les activités commerciales possibles sont (liste non-exhaustive) :
+- Création de petits projets de jeux vidéos ;
 
-- Accompagnement à la **création de structures** juridiques
-- Conception, développement et accompagnement de **produits innovants**
-- **Formation** d’enfants et d’adultes, par exemple dans les domaines de la communication non-violente, méthodologie lean et approche agile, les relations aux animaux, l’alimentation, la gestion de budget familial ou d’entreprise…
-- Projets à **impact environnemental positif**
-- Projets à **impact social positif**
-- Vente d’objets ou de denrées alimentaires, avec **impact humain ou environnemental positif**
+- Rédaction en tant qu'écrivain fantôme ;
+
+- Écriture d'œuvres littéraires ;
+
+- Montage vidéo ;
+
+- Rédaction de script pour des petites production 
